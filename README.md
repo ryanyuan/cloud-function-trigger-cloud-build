@@ -1,2 +1,2 @@
 # cloud-function-trigger-cloud-build
-A Cloud Function to create a Cloud Build build instance
+This is an example of creating a Cloud Build build instance using Cloud Function without creating a Cloud Build trigger.
